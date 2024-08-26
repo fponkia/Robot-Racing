@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
  */
 
 /**
- * @author foram
+ * @author Foram Patel
  * Description: Draws Pictures using Image files
  */
 public class ImagePicture extends Picture{
