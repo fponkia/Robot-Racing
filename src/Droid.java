@@ -2,7 +2,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
 /**
- * @author Sparsh Soni
+ * @author Foram Patel
  * Date: 2021/06/02
  * Description: The droid class for the unit 2 summative
  * Methods: public Droid(ImageIcon img): A constructor to initialize the variables.
