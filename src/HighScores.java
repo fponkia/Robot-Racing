@@ -10,7 +10,7 @@ import java.io.PrintWriter;
  */
 
 /**
- * @author Kush Patel
+ * @author Foram Patel
  *Date: 2021-06-04
  *Description: Class which calculates and stores the high-scores of the game.
  *Method List:
